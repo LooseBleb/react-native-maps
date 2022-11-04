@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "redux-saga-watermelondb-offline",
+    "slug": "redux-saga-watermelondb-offline",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
